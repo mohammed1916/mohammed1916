@@ -1,6 +1,7 @@
+![](https://komarev.com/ghpvc/?username=mohammed1916&color=ff69b4&style=flat-square)
+
 <h1 align="center">Hi! This is Mohammed Abdullah</h1>
 <hr>
-![](https://komarev.com/ghpvc/?username=mohammed1916)
 <hr>
 
 <h3 align="center">Connect with me:</h3>
