@@ -16,5 +16,8 @@
   <a href="https://www.hackerearth.com/@mohammed.abdullah" target="blank">
     <img alt="Hackerearth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></img>
   </a>
+  <a href="https://mohammedabdullah.pages.dev/" target="blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></img>
+  </a>
   
 </p>
