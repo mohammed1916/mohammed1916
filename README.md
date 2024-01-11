@@ -33,5 +33,11 @@
   <p align="center">
     <img src="https://mohammed1916-github-readme-streak-stats-threeone-vert.vercel.app?user=mohammed1916&theme=react&mode=weekly&hide_current_streak=true" alt="GitHub Streak" />
   </p>
+  <br>
+  <hr>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed1916&layout=donut-vertical&show_icons=true&theme=neon&size_weight=0.5&count_weight=0.5&hide=css,html" alt="Top Languages" />
+  </p>
   
 </p>
