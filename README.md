@@ -30,5 +30,8 @@
     <img alt="Blog" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img>
   </a>
   </p>
+  <p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://mohammed1916-github-readme-streak-stats-threeone-vert.vercel.app?user=mohammed1916&theme=react&mode=weekly&hide_current_streak=true" alt="GitHub Streak" /></a>
+  </p>
   
 </p>
