@@ -31,7 +31,7 @@
   </a>
   </p>
   <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://mohammed1916-github-readme-streak-stats-threeone-vert.vercel.app?user=mohammed1916&theme=react&mode=weekly&hide_current_streak=true" alt="GitHub Streak" /></a>
+    <img src="https://mohammed1916-github-readme-streak-stats-threeone-vert.vercel.app?user=mohammed1916&theme=react&mode=weekly&hide_current_streak=true" alt="GitHub Streak" />
   </p>
   
 </p>
