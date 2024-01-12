@@ -37,7 +37,7 @@
   <hr>
   <br>
   <p align="center">
-    <img src="https://github-mohammed1916-readme-stats.vercel.app/api/top-langs/?username=mohammed1916&layout=donut-vertical&show_icons=true&theme=neon&size_weight=0.5&count_weight=0.5&hide=css,html" alt="Top Languages" />
+    <img src="https://github-mohammed1916-readme-stats-top-languages.vercel.app/api/top-langs/?username=mohammed1916&layout=donut-vertical&show_icons=true&theme=neon&size_weight=0.5&count_weight=0.5&hide=css,html" alt="Top Languages" />
   </p>
   
 </p>
